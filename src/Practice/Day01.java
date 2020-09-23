@@ -8,7 +8,7 @@ public class Day01 {
 	}
 	
 	/*
-	 * summary : ¾à¼öÀÇ ÇÕ
+	 * summary : ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½
 	 * date : 2020-09-20
 	 */
 	public static int DivisorSum(int n) {
@@ -25,10 +25,10 @@ public class Day01 {
     }
 	
 	/*
-	 * summary : ÀÚ¸´¼ö ´õÇÏ±â
+	 * summary : ï¿½Ú¸ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ï±ï¿½
 	 * date : 2020-09-20
 	 */
-	public static int digitNumberSum(int n) {
+	public static int DigitNumberSum(int n) {
 		int answer = 0;
 		
 		String temp = Integer.toString(n);
