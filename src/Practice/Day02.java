@@ -19,6 +19,7 @@ public class Day02 {
 	/*
 	 * summary : 두 개 뽑아서 더하기 
 	 * date : 2020-09-23
+	 * -- 커밋테스트
 	 */
 	public static int[] solution(int[] numbers) {
 		Set<Integer> set = new HashSet();
